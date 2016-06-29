@@ -1,1 +1,2 @@
-new file 1 is new
+new file 1 is new. 
+These are Darren's changes. You better accept them otherwise you're a fool.
